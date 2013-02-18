@@ -1,0 +1,30 @@
+
+Answer 1b)
+def multiplyfifteen(n)
+n * 15
+end
+
+Answer 1d)
+n = 15
+	while n<20
+	puts n
+n = n + 1
+end
+
+Answer 1e)
+last_name = "dsouza"
+puts "dsouza".upcase
+
+
+Answer 2)
+class Shirt
+	attr_accessor :brand
+	attr_accessor :color
+	def wear_the_shirt
+	puts "Shirt is dirty"
+	end
+end
+
+Answer 3)
+# Instance method is a method defined in a class which is only accessible through the object of the class.
+  # Class methods are methods that are called on a class
